@@ -1,0 +1,23 @@
+{
+  "name": "regexp-extra",
+  "version": "0.0.1",
+  "description": "Extra methods for RegExp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/regexp-extra.git"
+  },
+  "keywords": [
+    "regexp",
+    "extra"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodef/regexp-extra/issues"
+  },
+  "homepage": "https://github.com/nodef/regexp-extra#readme"
+}
