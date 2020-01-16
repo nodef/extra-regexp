@@ -1,23 +1,28 @@
 {
-  "name": "regexp-extra",
-  "version": "0.0.1",
-  "description": "Extra methods for RegExp.",
+  "name": "extra-regexp",
+  "version": "0.0.2",
+  "description": "Support methods for regular expressions.",
   "main": "index.js",
   "scripts": {
     "test": "exit"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nodef/regexp-extra.git"
+    "url": "git+https://github.com/nodef/extra-regexp.git"
   },
   "keywords": [
+    "extra",
     "regexp",
-    "extra"
+    "support",
+    "method",
+    "regular",
+    "expression",
+    "merferry"
   ],
   "author": "wolfram77@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nodef/regexp-extra/issues"
+    "url": "https://github.com/nodef/extra-regexp/issues"
   },
-  "homepage": "https://github.com/nodef/regexp-extra#readme"
+  "homepage": "https://github.com/nodef/extra-regexp#readme"
 }
