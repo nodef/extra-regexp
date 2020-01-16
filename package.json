@@ -1,7 +1,7 @@
 {
   "name": "extra-regexp",
-  "version": "0.0.4",
-  "description": "Support methods for regular expressions.",
+  "version": "0.0.5",
+  "description": "Useful additions to inbuilt RegExp.",
   "main": "index.js",
   "scripts": {
     "test": "exit"
@@ -13,11 +13,11 @@
   "keywords": [
     "extra",
     "regexp",
-    "support",
-    "method",
     "regular",
     "expression",
-    "merferry"
+    "merferry",
+    "escape",
+    "unescape"
   ],
   "author": "wolfram77@gmail.com",
   "license": "MIT",

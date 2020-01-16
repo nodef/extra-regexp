@@ -35,7 +35,7 @@ function unescape(str) {
  * @returns {string} escaped string
  */
 function escape(str) {
-  return str.replace(/[\\^$*+?.()|[\]{}]/g, '\\$&');
+  return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
 }
 RegExp.unescape = unescape;
 RegExp.escape = escape;
