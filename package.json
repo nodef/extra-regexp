@@ -1,6 +1,6 @@
 {
   "name": "extra-regexp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Support methods for regular expressions.",
   "main": "index.js",
   "scripts": {
