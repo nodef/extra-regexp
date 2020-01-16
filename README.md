@@ -20,8 +20,8 @@ Methods:
 
 ## references
 
-- [RegExp]
-- [RegExr](https://regexr.com)
+- [RegExp - JavaScript by MDN contributors](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
+- [RegExr, a regular expression tester by gskinner studio](https://regexr.com)
 
 <br>
 <br>
