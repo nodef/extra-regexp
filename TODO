@@ -1,3 +1,8 @@
+- less specific regexp
+- general regexp: union difference
+- regexp union, optimize
+
+
 - https://www.npmjs.com/package/ignore
 - https://www.npmjs.com/package/randexp
 - https://www.npmjs.com/package/regenerate
