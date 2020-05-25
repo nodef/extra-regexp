@@ -1,3 +1,6 @@
+PARTIAL MATCH
+https://stackoverflow.com/questions/42461651/partial-matching-a-string-against-a-regex
+
 - less specific regexp
 - general regexp: union difference
 - regexp union, optimize
