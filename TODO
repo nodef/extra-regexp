@@ -4,6 +4,7 @@ https://stackoverflow.com/questions/42461651/partial-matching-a-string-against-a
 - less specific regexp
 - general regexp: union difference
 - regexp union, optimize
+scoped-regex	regex	Regular expression for matching scoped npm package names
 
 
 - https://www.npmjs.com/package/ignore
