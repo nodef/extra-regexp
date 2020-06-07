@@ -1,6 +1,6 @@
 {
   "name": "extra-regexp",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "description": "Useful additions to inbuilt RegExp.",
   "main": "index.js",
   "module": "index.mjs",
