@@ -1,6 +1,6 @@
 {
   "name": "extra-regexp",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Useful additions to inbuilt RegExp.",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/nodef/extra-regexp/issues"
   },
-  "homepage": "https://github.com/nodef/extra-regexp#readme"
+  "homepage": "https://github.com/nodef/extra-regexp#readme",
+  "devDependencies": {
+    "extra-build": "^1.0.176"
+  }
 }
