@@ -305,8 +305,6 @@ UTIL:
 - https://www.npmjs.com/package/nanomatch
 
 REGEX:
-- https://www.npmjs.com/package/is-regexp
-- https://www.npmjs.com/package/is-regex
 - https://www.npmjs.com/package/has-ansi
 - https://www.npmjs.com/package/ansi-regex
 - https://www.npmjs.com/package/emoji-regex
