@@ -1,6 +1,6 @@
 {
   "name": "extra-regexp",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Useful additions to inbuilt RegExp.",
   "main": "index.js",
   "scripts": {
@@ -12,12 +12,7 @@
   },
   "keywords": [
     "extra",
-    "regexp",
-    "regular",
-    "expression",
-    "merferry",
-    "escape",
-    "unescape"
+    "regexp"
   ],
   "author": "wolfram77@gmail.com",
   "license": "MIT",
