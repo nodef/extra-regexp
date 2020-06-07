@@ -1,7 +1,7 @@
 {
   "name": "extra-regexp",
-  "version": "0.0.23",
-  "description": "Useful additions to inbuilt RegExp.",
+  "version": "0.0.24",
+  "description": "A regular expression defines a pattern for matching text.",
   "main": "index.js",
   "module": "index.mjs",
   "exports": {
