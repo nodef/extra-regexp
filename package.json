@@ -1,25 +1,35 @@
 {
   "name": "extra-regexp",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Useful additions to inbuilt RegExp.",
   "main": "index.js",
+  "module": "index.mjs",
+  "exports": {
+    "require": "./index.js",
+    "import": "./index.mjs"
+  },
   "scripts": {
+    "einit": "ebuild init",
+    "ecode": "ebuild update --docs false",
+    "eupdate": "ebuild update",
+    "escatter": "ebuild scatter",
     "test": "exit"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nodef/extra-regexp.git"
-  },
+  "runkitExampleFilename": "example.js",
   "keywords": [
     "extra",
     "regexp"
   ],
-  "author": "wolfram77@gmail.com",
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/extra-regexp.git"
+  },
   "bugs": {
     "url": "https://github.com/nodef/extra-regexp/issues"
   },
   "homepage": "https://github.com/nodef/extra-regexp#readme",
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
   "devDependencies": {
     "extra-build": "^1.0.176"
   }
