@@ -1,6 +1,6 @@
 {
   "name": "extra-regexp",
-  "version": "0.0.24",
+  "version": "0.0.25",
   "description": "A regular expression defines a pattern for matching text.",
   "main": "index.js",
   "module": "index.mjs",
@@ -31,6 +31,6 @@
   "author": "wolfram77@gmail.com",
   "license": "MIT",
   "devDependencies": {
-    "extra-build": "^1.0.176"
+    "extra-build": "^1.1.27"
   }
 }
