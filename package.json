@@ -1,6 +1,6 @@
 {
   "name": "extra-regexp",
-  "version": "0.0.25",
+  "version": "0.0.26",
   "description": "A regular expression defines a pattern for matching text.",
   "main": "index.js",
   "module": "index.mjs",
@@ -18,7 +18,10 @@
   "runkitExampleFilename": "example.js",
   "keywords": [
     "extra",
-    "regexp"
+    "regexp",
+    "escape",
+    "is",
+    "unescape"
   ],
   "repository": {
     "type": "git",
@@ -31,6 +34,6 @@
   "author": "wolfram77@gmail.com",
   "license": "MIT",
   "devDependencies": {
-    "extra-build": "^1.1.27"
+    "extra-build": "^1.1.28"
   }
 }
